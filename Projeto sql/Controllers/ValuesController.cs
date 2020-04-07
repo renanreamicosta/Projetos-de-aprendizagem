@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+﻿using Domain;
+using Projeto_sql.Banco;
+using System.Configuration;
 using System.Net.Http;
 using System.Web.Http;
 
@@ -9,31 +8,25 @@ namespace Projeto_sql.Controllers
 {
     public class ValuesController : ApiController
     {
-        // GET api/values
-        public IEnumerable<string> Get()
+        public static CrudConnection ConnectionDB()
         {
-            return new string[] { "value1", "value2" };
+            var Server = ConfigurationManager.AppSettings["Server"];
+            var Database = ConfigurationManager.AppSettings["Database"];
+            var Id = ConfigurationManager.AppSettings["Id"];
+            var Password = ConfigurationManager.AppSettings["Password"];
+            CrudConnection Connection = new CrudConnection(Server, Database, Id, Password);
+
+            return Connection;
         }
 
-        // GET api/values/5
-        public string Get(int id)
+        [HttpPost]
+        public HttpResponseMessage InsertClient([FromBody]Pessoas param)
         {
-            return "value";
-        }
+            CrudConnection conn = ConnectionDB();
 
-        // POST api/values
-        public void Post([FromBody]string value)
-        {
-        }
+            var response = new HttpResponseMessage(conn.InsertUsuario(param));
 
-        // PUT api/values/5
-        public void Put(int id, [FromBody]string value)
-        {
-        }
-
-        // DELETE api/values/5
-        public void Delete(int id)
-        {
+            return response;
         }
     }
 }

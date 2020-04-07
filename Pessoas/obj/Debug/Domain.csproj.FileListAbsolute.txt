@@ -1,0 +1,5 @@
+C:\Users\Renan\source\repos\Projetos-de-aprendizagem\Pessoas\bin\Debug\Domain.dll
+C:\Users\Renan\source\repos\Projetos-de-aprendizagem\Pessoas\bin\Debug\Domain.pdb
+C:\Users\Renan\source\repos\Projetos-de-aprendizagem\Pessoas\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\Projetos-de-aprendizagem\Pessoas\obj\Debug\Domain.dll
+C:\Users\Renan\source\repos\Projetos-de-aprendizagem\Pessoas\obj\Debug\Domain.pdb

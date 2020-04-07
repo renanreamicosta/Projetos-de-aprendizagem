@@ -215,7 +215,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Banco\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
@@ -246,6 +245,16 @@
     <None Include="packages.config" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
     <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary1\Conexao.csproj">
+      <Project>{602DBDC1-66D6-4A03-A36D-EE810F940C07}</Project>
+      <Name>Conexao</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Pessoas\Domain.csproj">
+      <Project>{83B450F2-0876-4590-A1AB-B250EFD6D655}</Project>
+      <Name>Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
