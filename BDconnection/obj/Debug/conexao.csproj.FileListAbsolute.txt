@@ -1,0 +1,9 @@
+C:\Users\Renan\source\repos\CrudSql\BDconnection\bin\Debug\BDconnection.dll
+C:\Users\Renan\source\repos\CrudSql\BDconnection\bin\Debug\BDconnection.pdb
+C:\Users\Renan\source\repos\CrudSql\BDconnection\bin\Debug\Domain.dll
+C:\Users\Renan\source\repos\CrudSql\BDconnection\bin\Debug\Domain.pdb
+C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\conexao.csprojAssemblyReference.cache
+C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\conexao.csproj.CoreCompileInputs.cache
+C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\conexao.csproj.CopyComplete
+C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\BDconnection.dll
+C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\BDconnection.pdb

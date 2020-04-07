@@ -1,9 +1,0 @@
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\bin\Debug\Domain.dll
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\bin\Debug\Domain.pdb
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\obj\Debug\Conexao.csprojAssemblyReference.cache
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\obj\Debug\Conexao.csproj.CoreCompileInputs.cache
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\obj\Debug\Conexao.csproj.CopyComplete
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-C:\Users\Renan\source\repos\Projetos-de-aprendizagem\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
