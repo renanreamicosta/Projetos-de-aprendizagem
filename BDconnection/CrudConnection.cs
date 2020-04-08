@@ -42,14 +42,14 @@ namespace Conexao
                 uid = id;
                 password = pass;
                 string connectionString;
-                connectionString = "SERVER=" + server + ";" + "DATABASE=" + database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
+                connectionString = @"Data source=DESKTOP-U14IA42;Initial Catalog=clientes;";
 
                 connection = new SqlConnection(connectionString);
 
             }
-            catch (Exception)
+            catch (Exception ex)
             {
-                throw;
+                throw ex;
             }
         }
 

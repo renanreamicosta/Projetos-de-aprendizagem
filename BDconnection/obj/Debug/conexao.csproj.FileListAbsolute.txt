@@ -7,3 +7,12 @@ C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\conexao.csproj.CoreCo
 C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\conexao.csproj.CopyComplete
 C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\BDconnection.dll
 C:\Users\Renan\source\repos\CrudSql\BDconnection\obj\Debug\BDconnection.pdb
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\bin\Debug\BDconnection.dll
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\bin\Debug\BDconnection.pdb
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\bin\Debug\Domain.dll
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\bin\Debug\Domain.pdb
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\obj\Debug\conexao.csprojAssemblyReference.cache
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\obj\Debug\conexao.csproj.CoreCompileInputs.cache
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\obj\Debug\conexao.csproj.CopyComplete
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\obj\Debug\BDconnection.dll
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\BDconnection\obj\Debug\BDconnection.pdb

@@ -3,3 +3,9 @@ C:\Users\Renan\source\repos\CrudSql\Domain\bin\Debug\Domain.pdb
 C:\Users\Renan\source\repos\CrudSql\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
 C:\Users\Renan\source\repos\CrudSql\Domain\obj\Debug\Domain.dll
 C:\Users\Renan\source\repos\CrudSql\Domain\obj\Debug\Domain.pdb
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\bin\Debug\Domain.dll
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\bin\Debug\Domain.pdb
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\obj\Debug\Domain.dll
+C:\Users\reami\Desktop\convert\Projetos-de-aprendizagem\Domain\obj\Debug\Domain.pdb
